@@ -8,7 +8,7 @@ public class FirstserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FirstserviceApplication.class, args);
-		Systemn.out.print("Application started");
+		System.out.print("Application started");
 	}
 
 }
